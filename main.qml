@@ -24,7 +24,7 @@ import "CustomComponents"
         Image {
             id: image
             anchors.fill: parent
-            source: "Downloads/HOME page.jpg"
+            source: "CustomComponents/HOME page.jpg"
             fillMode: Image.PreserveAspectFit
             CustomButton{
             x:86
