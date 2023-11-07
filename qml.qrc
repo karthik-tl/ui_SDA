@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../../Downloads/png-clipart-black-house-house-computer-icons-home-automation-kits-real-estate-home-icon-angle-building-thumbnail.png</file>
+        <file>../../Downloads/HOME page.jpg</file>
+        <file>CustomComponents/CustomButton.qml</file>
+    </qresource>
+</RCC>
